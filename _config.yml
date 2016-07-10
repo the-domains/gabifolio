@@ -1,0 +1,14 @@
+layout_spectrum: 0.11001963121816516
+typography_spectrum: 0.8557328360620886
+color:
+  brandStrength: 0.8088066363707185
+  lightness: 0.7572380672208965
+  saturation: 0.12748075975105166
+  rhythmicContrast: 0.5271282522007823
+  brandColors:
+    - '#334D5C'
+    - '#45B29D'
+    - '#EFC94C'
+    - '#E27A3F'
+    - '#DF5A49'
+name: Gabifolio
